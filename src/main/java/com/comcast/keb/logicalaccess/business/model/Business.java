@@ -37,5 +37,4 @@ public class Business {
 		this.businessName = businessName;
 	}
 	
-	
 }
